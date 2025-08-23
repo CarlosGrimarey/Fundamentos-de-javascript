@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+body{
+    background-color: azure;
+}
